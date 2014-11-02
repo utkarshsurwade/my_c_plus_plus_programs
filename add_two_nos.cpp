@@ -4,9 +4,9 @@ using namespace std;
 int main()
 {
   int x,y,result;
-  cout<<"plz enter 1st no.  - ";
+  cout<<"plz enter 1st no: ";
   cin>>x;
-  cout<<"plz enter 2nd no. -";
+  cout<<"plz enter 2nd no: ";
   cin>>y;
   result = x +y;
 
