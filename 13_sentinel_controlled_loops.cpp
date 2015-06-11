@@ -17,7 +17,7 @@ int main()
     {
         total += marks;//body or statement that does some type of work(take the value of marks and add it into the current value of total and keep on doing this until the loop stops i.e in this case we enter the value of marks = -1)
 
-        ++no;//we increment "no" so that we can use it later to find the average outside the loop(here increment does'nt break the loop onlt sentinel value does)
+        ++no;//we increment "no" so that we can use it later to find the average outside the loop(here increment does'nt break the loop only sentinel value does)
 
         cout<<"enter marks :";
         cin>>marks;
