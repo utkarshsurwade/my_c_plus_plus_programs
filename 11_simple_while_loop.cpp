@@ -15,7 +15,7 @@ int main()
     cout << "Hello world!\n" << endl;//body or statement that does some type of work
 
 
-    ++/*increment(keep on incrementing "count" until its equal to 10)*/count;//some statement(maybe increment "++" or decrement "--")that modifies the loop control variable so that makes the relational expression false
+    ++/*increment(keep on incrementing "count" until its equal to 10)*/count;//some statement(maybe increment "++" or decrement "--")that modifies the loop control variable so that makes the relational expression becomes false.
     }
     return 0;
 
