@@ -1,12 +1,10 @@
-/*find the area,circumference,volume of a circle and use addition,multiplication ,subtraction,division,modulous/remainder operators
-to solve a given simple equation
-
-*/
+/*find the area,circumference,volume of a circle and use addition,multiplication ,subtraction,division,
+modulous/remainder operators to solve a given simple equation.*/
 
 #include <iostream>
 
 #include <cmath>/*This library provides advanced mathematical function to use in our programes such as fmod(,)  ,  pow(,)  ,  abs().....
-for finding absolut value and      sqrt().....for finding underroot of a value etc.
+for finding absolute value and      sqrt().....for finding underroot of a value etc.
  */
 using namespace std;
 
