@@ -1,12 +1,12 @@
 //there are two types of while loop ~ 1: count controlled while loop (loop control variable keeps track of output)
-//and 2: sentinel control while loop (loop control variable variable does'nt keep track of output instead it looks for a certain value in order to stop the loop)
+//and 2: sentinel control while loop (loop control variable does'nt keep track of output instead it looks for a certain value in order to stop the loop)
 //wap using while loop to show multiplication using addition
 #include <iostream>
 using namespace std;
 
 int main()
 {
-    int num1 ,num2, no = 1 ,product=0;//"no" is the loop control variable which is initialize outside the while loop
+    int num1 ,num2, no = 1 ,product=0;//"no" is the loop control variable which is initialized outside the while loop
 
     cout<<"enter first number : ";
     cin>>num1;
