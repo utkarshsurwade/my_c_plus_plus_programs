@@ -20,7 +20,7 @@ int main()
     cout<<"4\t"<<day4<<"\n"/*skip a line*/;
     cout<<"5\t"<<day5<<"\n"/*skip a line*/;
     cout<<"6\t"<<day6<<"\n"/*skip a line*/;
-    cout<<"7\t"<<day7<<"\n\n"/*skip two line*/;
+    cout<<"7\t"<<day7<<"\n\n"/*skip two lines*/;
 
     return 0;
 }
