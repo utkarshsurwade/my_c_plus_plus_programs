@@ -13,7 +13,7 @@ int main()
     month3 =1071.6378;
     month4 =1069.736;
 
-    cout<<setprecision(8);//change the precisionn in which our output is being displayed in
+    cout<<setprecision(8);//change the precision in which our output is being displayed in
 
     cout<<"month\treading\n\n";
     cout<<"1\t"<<month1<<endl;
