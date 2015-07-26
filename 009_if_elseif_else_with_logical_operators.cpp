@@ -20,7 +20,8 @@ grading scale
 
 0 - 59      F
 
-(if , else if , else statements are used primarily when we have a structured decision to make[if statement is basically a control flow statement])
+(if , else if , else statements are used primarily when we have a structured decision to make
+[if statement is basically a control flow statement])
 
 */
 
