@@ -3,8 +3,10 @@ modulous/remainder operators to solve a given simple equation.*/
 
 #include <iostream>
 
-#include <cmath>/*This library provides advanced mathematical function to use in our programes such as fmod(,) {special modulous/remainder finction}  ,  pow(,)  ,  abs().....
-for finding absolute value and      sqrt().....for finding underroot of a value etc.
+#include <cmath>/*This library provides advanced mathematical function to use in our programes such as
+                  fmod(,) {special modulous/remainder finction}  ,
+                  pow(,)  ,  abs().....for finding absolute value
+         and      sqrt().....for finding underroot of a value etc.
  */
 using namespace std;
 
