@@ -17,7 +17,7 @@ int main()
     cout<<"how many years to calculate?:";
     cin>>years;
     for(int i =1;/*initialization*/i<=years;/*relation expression(in order to test that loop controle variable)*/++i)
-                            /*in above for syntax '++i' is loop controle variable modification(increment ++ or decrement --)*/
+                            /*in above 'for' syntax '++i' is loop controle variable modification(increment ++ or decrement --)*/
     {
         balance += rate/100*balance;//body or statement that does some type of work
         // (take the value of rate (in %) and multiply it into the current value of balance 
