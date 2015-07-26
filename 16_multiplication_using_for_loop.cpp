@@ -1,5 +1,5 @@
 //for loops just provides a more concise way to write count controlled loops
-//wap to multiply two numbers using for loop
+//wap to multiply two numbers by addition using for loop
 #include <iostream>
 
 using namespace std;
