@@ -12,7 +12,7 @@ void /*void is the substitute for the return data type*/ heading ()//parameter l
 
 int main()
 {
-    heading ();
-    cout << endl;
+    heading ();//function calling
+    cout << endl;//skip a line
     return 0;
 }
